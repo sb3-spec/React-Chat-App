@@ -1,0 +1,6 @@
+.joinContainer {
+    justify-content: center;
+    align-items: center;
+    max-width: 500px;
+    margin: auto;
+}
